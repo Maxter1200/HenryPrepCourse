@@ -73,7 +73,7 @@ En los siguientes 6 ejercicios deberás desarrollar funciones para que cada una 
 
 ### **📍 EJERCICIO 04**
 
-En los siguientes 6 ejercicios deberás desarrollar funciones que utilizarán el objeto global `Math` para realizar ejercicios matemáticos. Finalmente reotrnarás el resultado.
+En los siguientes 6 ejercicios deberás desarrollar funciones que utilizarán el objeto global `Math` para realizar ejercicios matemáticos. Finalmente retornarás el resultado.
 
 ---
 
